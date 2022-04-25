@@ -725,7 +725,7 @@ function Payment() {
               schedule
             </a>{" "}
             a call with aanchal mehta, our first team member on why this is
-            going to be an investment worth making 🙂
+            going to be an investment worth making. 🙂
             <br />
           </div>
           <br />
