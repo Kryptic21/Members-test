@@ -715,11 +715,17 @@ function Payment() {
               </Button>
             </form>
             <br />
-            {/* https://calendly.com/aanchal25/ */}
             {/* {paymentLinkRef.current && onOpenNewTab(paymentLinkRef.current)} */}
             still unsure about taking the leap?{" "}
-            <a target="_blank" href="https://calendly.com/aanchal25/" style={{color:'orangered'}}>schedule</a> a quick call
-            with one of our team members - we’d love to chat with you 🙂
+            <a
+              target="_blank"
+              href="https://calendly.com/aanchal25/"
+              style={{ color: "orangered" }}
+            >
+              schedule
+            </a>{" "}
+            a call with aanchal mehta, our first team member on why this is
+            going to be an investment worth making 🙂
             <br />
           </div>
           <br />
